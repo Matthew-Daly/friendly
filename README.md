@@ -24,3 +24,8 @@ In this web application every Revature employee can connect to other employees, 
 * There is a live chat feature, allowing users to communicate in real-time.
 * Passwords are encrypted, and users can update or retrieve lost login information.
 * The Application is fully deployable to the AWS EC2 service.
+
+# To-do list:
+* Add video sharing functionality.
+* Add image archiving functionality. 
+
