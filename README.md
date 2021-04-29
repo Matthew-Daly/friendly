@@ -19,7 +19,7 @@ In this web application every Revature employee can connect to other employees, 
 * S3
 
 # Features
-* Users can log in to their accounts and post messages and images.
+* Users can log in to their accounts, post messages and images.
 * Users can view, comment on, and like other users' posts and images.
 * There is a live chat feature, allowing users to communicate in real-time.
 * Passwords are encrypted, and users can update or retrieve lost login information.
